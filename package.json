@@ -1,6 +1,6 @@
 {
   "name": "typescript-playground",
-  "version": "0.0.1",
+  "version": "v1.0.0",
   "description": "💥 A simple TypeScript playground for your tests and experiments.",
   "main": "index.js",
   "scripts": {
