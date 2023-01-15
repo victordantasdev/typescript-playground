@@ -6,7 +6,7 @@
   "scripts": {
     "start": "tsnd --respawn -T --quiet ./src/index.ts",
     "dev": "tsnd --respawn -T --quiet",
-    "test": "jest"
+    "test": "jest --watch-all"
   },
   "repository": {
     "type": "git",
