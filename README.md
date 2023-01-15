@@ -4,6 +4,9 @@
 
 
 ## Instructions:
+
+Fork this project, then:
+
 ```bash
 # to install dependencies
 $ npm i
